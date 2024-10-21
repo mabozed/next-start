@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 const Navbar = () => {
   return (
-    <div className="h-16 w-full px-16 bg-slate-400 flex justify-between items-center">
+    <div className="h-16 w-full px-16 bg-slate-400 flex justify-between items-center font-semibold">
       <div className="logo">Logo</div>
       <ul className="flex items-center gap-5">
         <Link href="/">Home</Link>
