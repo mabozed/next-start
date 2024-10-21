@@ -5,7 +5,7 @@ import Navbar from '../_components/Navbar'
 
 export const metadata: Metadata = {
   title: 'Admin',
-  description: 'next app admin',
+  description: 'Blog admin page',
 }
 
 export default function AdminLayout({

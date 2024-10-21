@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 const LoginPage = () => {
   return (
-    <div className="w-80 h-80 bg-blue-950 text-white font-bold flex flex-col justify-center items-center gap-10">
+    <div className="w-80 h-80 bg-slate-800 text-white font-bold flex flex-col justify-center items-center gap-10">
       LoginForm
       <p>
         Not Registered, Please{' '}
